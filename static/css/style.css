@@ -1,0 +1,35 @@
+h1 {
+    color: #5d82bb;
+}
+
+footer {
+    height: 50px;
+    text-align: center;
+    bottom: 0;
+}
+
+.back-major-ten {
+    background-color: rgb(93, 130, 187, 1);
+}
+
+.text-white {
+    color: rgb(227, 229, 235) !important;
+}
+
+
+.login_background {
+    background-image: linear-gradient(to bottom, rgba(93, 130, 187, 1), rgba(255, 255, 255, 0)), url("../image/login_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+:root {
+    --secondary: #5d82bb;
+    --primary: #bb965d;
+    --link-fg: #9db4d6;
+    --accent: #ffffff;
+    --header-color: #daa21b;
+    --body-bg: #111111;
+    --darkened-bg: #000000;
+    --delete-button-bg: #f44336;
+}
